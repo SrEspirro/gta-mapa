@@ -1,0 +1,1 @@
+var ICON_FILES = ["img/icons/aviao-monomotor.png","img/icons/balaclava.png","img/icons/bancada.png","img/icons/bote.png","img/icons/cannabis.png","img/icons/cobalto.png","img/icons/cobre.png","img/icons/crystal.png","img/icons/ferro.png","img/icons/frasco-po-branco.png","img/icons/niquel.png"];
